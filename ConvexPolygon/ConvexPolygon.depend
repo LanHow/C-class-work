@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1462013102 source:c:\users\user\desktop\product dot\convexpolygon\main.cpp
+	<iostream>
+	"..\cppunitlite\TestHarness.h"
+	"utCP.h"
+
+1021612118 c:\users\user\desktop\product dot\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1034763710 c:\users\user\desktop\product dot\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1034765034 c:\users\user\desktop\product dot\cppunitlite\simplestring.h
+
+1021612138 c:\users\user\desktop\product dot\cppunitlite\testresult.h
+
+1021612138 c:\users\user\desktop\product dot\cppunitlite\failure.h
+	"SimpleString.h"
+
+1021612118 c:\users\user\desktop\product dot\cppunitlite\testregistry.h
+
+1465283440 c:\users\user\desktop\product dot\convexpolygon\utcp.h
+	"..\Vector.h"
+	"ConvexPolygon.h"
+	<string>
+	"Circle.h"
+	<list>
+	<fstream>
+	"..\matrix\Matrix.h"
+
+1465266840 c:\users\user\desktop\product dot\vector.h
+	<string>
+	<vector>
+	<sstream>
+	<math.h>
+
+1465912591 c:\users\user\desktop\product dot\convexpolygon\convexpolygon.h
+	"..\Vector.h"
+	"..\triangle_area.h"
+	"..\cent.h"
+	<string>
+	<algorithm>
+	"Shape.h"
+	"..\matrix\Matrix.h"
+
+1461556028 c:\users\user\desktop\product dot\triangle_area.h
+	"Vector.h"
+	<math.h>
+
+1462345772 c:\users\user\desktop\product dot\cent.h
+	<math.h>
+
+1464766282 c:\users\user\desktop\product dot\convexpolygon\shape.h
+	<string>
+
+1464169206 c:\users\user\desktop\product dot\convexpolygon\circle.h
+	<string>
+	<sstream>
+	"Shape.h"
+	"../getVector.h"
+
+1463974122 c:\users\user\desktop\product dot\getvector.h
+	<string>
+	<sstream>
+
+1465903479 c:\users\user\desktop\product dot\matrix\matrix.h
+	"..\Vector.h"
+	"..\ProductDot.h"
+
+1462160284 c:\users\user\desktop\product dot\productdot.h
+	<string>
+	"Vector.h"
+

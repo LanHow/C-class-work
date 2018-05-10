@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1465894417 source:c:\users\user\desktop\product dot\convexpolygon\hw10\main.cpp
+	<iostream>
+	"..\..\cppunitlite\TestHarness.h"
+	"utHW10.h"
+
+1021612118 c:\users\user\desktop\product dot\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1034763710 c:\users\user\desktop\product dot\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1034765034 c:\users\user\desktop\product dot\cppunitlite\simplestring.h
+
+1021612138 c:\users\user\desktop\product dot\cppunitlite\testresult.h
+
+1021612138 c:\users\user\desktop\product dot\cppunitlite\failure.h
+	"SimpleString.h"
+
+1021612118 c:\users\user\desktop\product dot\cppunitlite\testregistry.h
+
+1465915926 c:\users\user\desktop\product dot\convexpolygon\hw10\uthw10.h
+	"..\..\Vector.h"
+	"..\ConvexPolygon.h"
+	<string>
+	"..\Circle.h"
+	<list>
+	<fstream>
+	"..\..\matrix\Matrix.h"
+	<math.h>
+
+1465266840 c:\users\user\desktop\product dot\vector.h
+	<string>
+	<vector>
+	<sstream>
+	<math.h>
+
+1465916358 c:\users\user\desktop\product dot\convexpolygon\convexpolygon.h
+	"..\Vector.h"
+	"..\triangle_area.h"
+	"..\cent.h"
+	<string>
+	<algorithm>
+	"Shape.h"
+	"..\matrix\Matrix.h"
+
+1461556028 c:\users\user\desktop\product dot\triangle_area.h
+	"Vector.h"
+	<math.h>
+
+1462345772 c:\users\user\desktop\product dot\cent.h
+	<math.h>
+
+1464766282 c:\users\user\desktop\product dot\convexpolygon\shape.h
+	<string>
+
+1464169206 c:\users\user\desktop\product dot\convexpolygon\circle.h
+	<string>
+	<sstream>
+	"Shape.h"
+	"../getVector.h"
+
+1463974122 c:\users\user\desktop\product dot\getvector.h
+	<string>
+	<sstream>
+
+1465903479 c:\users\user\desktop\product dot\matrix\matrix.h
+	"..\Vector.h"
+	"..\ProductDot.h"
+
+1462160284 c:\users\user\desktop\product dot\productdot.h
+	<string>
+	"Vector.h"
+
+1465916509 source:c:\users\user\desktop\product dot\hw10\main.cpp
+	<iostream>
+	"..\cppunitlite\TestHarness.h"
+	"utHW10.h"
+
+1465916713 c:\users\user\desktop\product dot\hw10\uthw10.h
+	"..\Vector.h"
+	"..\ConvexPolygon\ConvexPolygon.h"
+	<string>
+	"..\ConvexPolygon\Circle.h"
+	<list>
+	<fstream>
+	"..\matrix\Matrix.h"
+	<math.h>
+
+1465916509 source:c:\users\user\desktop\c++\104820027_hw10\hw10\main.cpp
+	<iostream>
+	"..\cppunitlite\TestHarness.h"
+	"utHW10.h"
+
+1021612118 c:\users\user\desktop\c++\104820027_hw10\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1034763710 c:\users\user\desktop\c++\104820027_hw10\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1034765034 c:\users\user\desktop\c++\104820027_hw10\cppunitlite\simplestring.h
+
+1021612138 c:\users\user\desktop\c++\104820027_hw10\cppunitlite\testresult.h
+
+1021612138 c:\users\user\desktop\c++\104820027_hw10\cppunitlite\failure.h
+	"SimpleString.h"
+
+1021612118 c:\users\user\desktop\c++\104820027_hw10\cppunitlite\testregistry.h
+
+1465917317 c:\users\user\desktop\c++\104820027_hw10\hw10\uthw10.h
+	"..\Vector.h"
+	"..\ConvexPolygon\ConvexPolygon.h"
+	<string>
+	"..\ConvexPolygon\Circle.h"
+	<list>
+	<fstream>
+	"..\matrix\Matrix.h"
+	<math.h>
+
+1465266840 c:\users\user\desktop\c++\104820027_hw10\vector.h
+	<string>
+	<vector>
+	<sstream>
+	<math.h>
+
+1466059141 c:\users\user\desktop\c++\104820027_hw10\convexpolygon\convexpolygon.h
+	"..\Vector.h"
+	"..\triangle_area.h"
+	"..\cent.h"
+	<string>
+	<algorithm>
+	"Shape.h"
+	"..\matrix\Matrix.h"
+
+1461556028 c:\users\user\desktop\c++\104820027_hw10\triangle_area.h
+	"Vector.h"
+	<math.h>
+
+1462345772 c:\users\user\desktop\c++\104820027_hw10\cent.h
+	<math.h>
+
+1464766282 c:\users\user\desktop\c++\104820027_hw10\convexpolygon\shape.h
+	<string>
+
+1465903479 c:\users\user\desktop\c++\104820027_hw10\matrix\matrix.h
+	"..\Vector.h"
+	"..\ProductDot.h"
+
+1462160284 c:\users\user\desktop\c++\104820027_hw10\productdot.h
+	<string>
+	"Vector.h"
+
+1464169206 c:\users\user\desktop\c++\104820027_hw10\convexpolygon\circle.h
+	<string>
+	<sstream>
+	"Shape.h"
+	"../getVector.h"
+
+1463974122 c:\users\user\desktop\c++\104820027_hw10\getvector.h
+	<string>
+	<sstream>
+

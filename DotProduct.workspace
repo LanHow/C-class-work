@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="product dot.cbp" />
+		<Project filename="utDotProduct/utDotProduct.cbp">
+			<Depends filename="product dot.cbp" />
+		</Project>
+		<Project filename="fun/fun.cbp" />
+		<Project filename="ConvexPolygon/ConvexPolygon.cbp" />
+		<Project filename="matrix/matrix.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

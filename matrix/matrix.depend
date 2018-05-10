@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1465182806 source:d:\ycc\programming\cb\product dot\matrix\main.cpp
+	<iostream>
+	"..\cppunitlite\TestHarness.h"
+	"utMatrix.h"
+
+1021612118 d:\ycc\programming\cb\product dot\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1034763710 d:\ycc\programming\cb\product dot\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1034765034 d:\ycc\programming\cb\product dot\cppunitlite\simplestring.h
+
+1021612138 d:\ycc\programming\cb\product dot\cppunitlite\testresult.h
+
+1021612138 d:\ycc\programming\cb\product dot\cppunitlite\failure.h
+	"SimpleString.h"
+
+1021612118 d:\ycc\programming\cb\product dot\cppunitlite\testregistry.h
+
+1465186610 d:\ycc\programming\cb\product dot\matrix\utmatrix.h
+	"Matrix.h"
+	"..\Vector.h"
+
+1465186408 d:\ycc\programming\cb\product dot\matrix\matrix.h
+	"..\Vector.h"
+	"..\ProductDot.h"
+
+1465186587 d:\ycc\programming\cb\product dot\vector.h
+	<string>
+	<vector>
+	<sstream>
+	<math.h>
+
+1462160283 d:\ycc\programming\cb\product dot\productdot.h
+	<string>
+	"Vector.h"
+
